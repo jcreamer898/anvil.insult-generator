@@ -1,0 +1,21 @@
+{
+  "name": "anvil.insult-generator",
+  "version": "100.0.0",
+  "description": "Generate insults in your anvil build",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcreamer898/anvil.insult-generator"
+  },
+  "keywords": [
+    "anvil",
+    "insult",
+    "plugin"
+  ],
+  "author": "Jonathan Creamer",
+  "license": "MIT",
+  "dependencies": {
+	"request": "*",
+	"jsdom": "*"
+  }
+}
